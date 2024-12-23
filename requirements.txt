@@ -1,0 +1,16 @@
+# Project dependencies 
+
+pillow>=10.2.0           # Image processing
+opencv-python>=4.9.0     # Image preprocessing
+numpy>=1.26.0            # Numerical operations
+tensorflow>=2.15.0       # ML framework
+scikit-learn>=1.4.0      # ML utilities
+PyQt6>=6.6.1            # GUI framework
+webp>=0.2.0             # WebP support
+tqdm>=4.66.1            # Progress bars
+pandas>=2.2.0           # Data handling
+matplotlib>=3.8.0        # Visualization
+pytest>=8.0.0           # Testing
+black>=24.1.0           # Code formatting
+isort>=5.13.0           # Import sorting
+flake8>=7.0.0           # Code linting
